@@ -1,0 +1,6 @@
+BOW, TF-IDF, Machine Learning Algorithms
+
+1. Preprocessing and Cleaning
+2. Train-Test Split
+3. BoW and TF-IDF (Sentences → Vectors) {Preventing Data Leakage}
+4. Model Training

@@ -1,0 +1,501 @@
+age,salary,gender,department,education_level,experience_years,city,disease
+56.0,23343.0,Male,Tech,Master,35,Bangalore,0
+69.0,33500.0,Male,Sales,High School,7,Bangalore,0
+46.0,73222.0,Male,Tech,Master,28,Bangalore,0
+32.0,49375.0,Female,Tech,High School,31,Mumbai,0
+60.0,29662.0,Female,Sales,High School,17,Bangalore,0
+,36964.0,Female,Tech,PhD,5,Delhi,0
+38.0,133429.0,Male,Sales,PhD,17,Delhi,0
+56.0,141692.0,Female,Tech,PhD,18,Mumbai,0
+36.0,79638.0,Male,Sales,Master,21,Delhi,0
+40.0,93666.0,Female,HR,Bachelor,36,Delhi,0
+28.0,,Female,Finance,High School,31,Bangalore,0
+28.0,138937.0,Female,Sales,High School,2,Delhi,0
+41.0,87215.0,Male,Sales,High School,27,Mumbai,0
+53.0,89042.0,,Finance,Master,9,Bangalore,0
+57.0,33284.0,Female,Sales,PhD,34,Chennai,0
+41.0,92789.0,Male,Sales,Bachelor,28,Bangalore,1
+20.0,104664.0,Female,Tech,Master,14,Mumbai,0
+39.0,,Male,Finance,PhD,32,Bangalore,0
+19.0,81389.0,Female,HR,Master,6,Bangalore,1
+41.0,29435.0,Male,Sales,Bachelor,11,Mumbai,0
+61.0,74340.0,Male,Finance,PhD,29,Bangalore,0
+47.0,64078.0,Female,Tech,Master,20,Mumbai,0
+55.0,,Male,HR,Bachelor,30,Mumbai,0
+19.0,71293.0,Male,Finance,High School,23,Chennai,0
+38.0,115981.0,Male,HR,Bachelor,19,Delhi,0
+50.0,98781.0,,HR,High School,36,Delhi,0
+29.0,80403.0,Male,HR,Master,3,Bangalore,0
+39.0,49124.0,Male,Sales,PhD,27,Bangalore,0
+61.0,115435.0,Female,Sales,PhD,19,Chennai,0
+42.0,63919.0,Male,Tech,Master,23,Chennai,0
+66.0,,Male,Tech,PhD,31,Chennai,0
+44.0,141305.0,Female,Finance,PhD,35,Mumbai,0
+59.0,55247.0,,Tech,High School,33,Chennai,0
+,141172.0,Female,HR,Master,35,Chennai,0
+33.0,114758.0,Female,HR,Bachelor,1,Bangalore,0
+32.0,111747.0,Female,Sales,High School,14,Chennai,0
+64.0,,Female,HR,Master,33,Mumbai,1
+,76573.0,Female,Finance,High School,35,Mumbai,0
+,79101.0,Male,HR,Bachelor,5,Bangalore,0
+,122756.0,Male,HR,Bachelor,38,Chennai,0
+20.0,46646.0,,Finance,Master,11,Chennai,0
+54.0,124185.0,Male,Tech,Bachelor,2,Mumbai,0
+68.0,43049.0,Male,Tech,High School,17,Chennai,1
+24.0,99605.0,Male,Finance,Bachelor,39,Chennai,0
+38.0,118116.0,Female,Sales,High School,20,Chennai,0
+26.0,117379.0,Female,HR,High School,14,Delhi,0
+56.0,88385.0,Male,Finance,Bachelor,32,Bangalore,0
+35.0,146131.0,Female,HR,Master,34,Delhi,0
+21.0,60158.0,Male,Sales,PhD,25,Bangalore,0
+42.0,85417.0,Male,HR,Bachelor,7,Mumbai,0
+31.0,43289.0,Male,Finance,High School,35,Chennai,0
+67.0,,Male,HR,High School,29,Bangalore,0
+26.0,120793.0,,Tech,Bachelor,22,Delhi,1
+43.0,29823.0,Female,Sales,Master,13,Chennai,0
+19.0,80160.0,Female,Sales,Master,13,Mumbai,0
+37.0,,Male,Sales,High School,1,Bangalore,0
+45.0,29540.0,Female,Finance,High School,36,Bangalore,0
+64.0,36364.0,Male,Sales,Master,4,Bangalore,1
+24.0,24611.0,Female,Tech,PhD,37,Chennai,0
+61.0,,Male,Finance,Bachelor,13,Delhi,0
+25.0,,Male,Tech,High School,38,Delhi,1
+,77679.0,Male,HR,High School,24,Bangalore,0
+52.0,124182.0,Female,HR,Master,19,Mumbai,1
+31.0,50977.0,Female,HR,Bachelor,1,Mumbai,0
+34.0,114704.0,,HR,Master,38,Delhi,0
+53.0,69115.0,Female,Tech,Bachelor,5,Mumbai,0
+67.0,111007.0,Male,Finance,Bachelor,16,Delhi,0
+57.0,108223.0,Female,Finance,Bachelor,24,Bangalore,1
+21.0,80890.0,Female,Sales,High School,27,Delhi,0
+19.0,86387.0,Male,Tech,PhD,1,Delhi,0
+23.0,38071.0,Male,HR,Master,34,Bangalore,0
+59.0,79275.0,Male,Tech,PhD,36,Mumbai,0
+21.0,92369.0,Female,Sales,Master,4,Delhi,0
+46.0,31938.0,Male,Sales,Bachelor,0,Delhi,1
+35.0,55195.0,Male,Tech,High School,39,Bangalore,0
+,111680.0,Male,Tech,PhD,11,Mumbai,0
+61.0,,Female,Tech,High School,35,Delhi,0
+,90588.0,Male,Finance,Master,22,Bangalore,0
+27.0,121042.0,Female,HR,High School,30,Delhi,0
+,113610.0,Female,Tech,High School,10,Chennai,0
+31.0,140420.0,Male,Tech,PhD,9,Bangalore,1
+48.0,123691.0,Male,Tech,Bachelor,2,Mumbai,0
+65.0,126306.0,Female,Sales,High School,13,Mumbai,0
+32.0,117856.0,Male,Sales,Bachelor,15,Mumbai,0
+,58304.0,Male,Finance,Master,9,Mumbai,1
+31.0,131783.0,Female,HR,High School,28,Delhi,0
+40.0,,Female,Finance,PhD,9,Delhi,0
+57.0,102986.0,Male,HR,Master,11,Mumbai,0
+38.0,109643.0,Female,Sales,Master,29,Mumbai,0
+33.0,40764.0,Male,Sales,PhD,0,Mumbai,0
+62.0,128940.0,Male,Sales,High School,4,Delhi,0
+35.0,106027.0,Male,Finance,High School,19,Mumbai,0
+,58494.0,Female,Tech,Master,7,Mumbai,0
+41.0,23373.0,Male,Tech,High School,11,Chennai,1
+,32161.0,Male,Sales,Bachelor,0,Chennai,0
+42.0,117532.0,Male,Tech,PhD,19,Mumbai,0
+62.0,112658.0,Female,Tech,Bachelor,27,Bangalore,0
+58.0,143633.0,Female,Finance,High School,36,Mumbai,0
+46.0,120386.0,Female,HR,Master,36,Chennai,0
+32.0,47350.0,Female,Sales,PhD,11,Bangalore,0
+62.0,113008.0,Female,Sales,High School,36,Bangalore,0
+18.0,114297.0,Male,Finance,High School,27,Mumbai,0
+42.0,45351.0,Female,Finance,Master,14,Chennai,0
+24.0,108668.0,Female,Tech,Master,5,Chennai,0
+26.0,134585.0,,Sales,Bachelor,19,Bangalore,0
+,35305.0,Male,HR,PhD,13,Mumbai,0
+18.0,95353.0,Female,Finance,PhD,1,Delhi,0
+61.0,96797.0,Female,HR,Master,8,Delhi,0
+25.0,85953.0,Male,HR,Bachelor,36,Chennai,0
+41.0,77458.0,Female,Sales,PhD,19,Delhi,0
+28.0,127112.0,,Sales,Master,25,Chennai,0
+68.0,40358.0,Male,Finance,High School,28,Chennai,0
+34.0,23267.0,Male,Sales,PhD,0,Chennai,0
+25.0,102745.0,Male,Sales,Bachelor,34,Delhi,1
+52.0,109588.0,Male,Sales,Bachelor,5,Chennai,1
+52.0,58513.0,Female,HR,Bachelor,36,Bangalore,1
+50.0,46092.0,Male,Finance,High School,4,Mumbai,0
+22.0,31338.0,Male,Tech,PhD,32,Mumbai,0
+59.0,20412.0,Female,HR,PhD,13,Chennai,1
+56.0,27543.0,Male,Sales,High School,11,Mumbai,0
+58.0,125891.0,Female,HR,PhD,19,Delhi,0
+45.0,,Female,Sales,High School,23,Delhi,0
+24.0,80692.0,Female,Sales,High School,33,Mumbai,0
+26.0,109084.0,Male,HR,High School,24,Delhi,1
+25.0,112920.0,Male,Finance,Bachelor,28,Mumbai,0
+29.0,143555.0,Male,Sales,PhD,38,Mumbai,0
+51.0,,Female,Finance,High School,30,Mumbai,0
+50.0,58756.0,Male,Tech,PhD,22,Chennai,0
+65.0,38888.0,Male,Sales,Bachelor,37,Mumbai,0
+40.0,55735.0,Male,Finance,High School,19,Chennai,0
+41.0,67295.0,Female,Finance,Master,22,Mumbai,0
+,137474.0,Female,Tech,Bachelor,15,Mumbai,1
+,134352.0,Male,Finance,Master,7,Mumbai,0
+61.0,103042.0,Male,Finance,PhD,20,Delhi,0
+57.0,105999.0,Male,Tech,PhD,0,Chennai,0
+39.0,37955.0,Male,Sales,Bachelor,7,Chennai,0
+44.0,57841.0,Female,Finance,PhD,28,Mumbai,0
+52.0,90640.0,Female,Finance,Master,31,Mumbai,0
+18.0,85510.0,Female,Finance,High School,37,Delhi,0
+52.0,54911.0,Female,HR,High School,4,Delhi,0
+54.0,79031.0,Male,Tech,High School,21,Delhi,1
+64.0,,,HR,Bachelor,33,Chennai,0
+31.0,,Male,Tech,PhD,0,Chennai,0
+20.0,,Female,Sales,Master,25,Chennai,0
+18.0,81476.0,Male,Sales,PhD,9,Mumbai,0
+22.0,64811.0,Female,Finance,PhD,29,Chennai,0
+43.0,56208.0,Female,Tech,PhD,17,Bangalore,1
+31.0,40150.0,Male,Sales,High School,16,Bangalore,1
+56.0,91180.0,Male,Tech,Master,25,Delhi,0
+,63286.0,Male,Sales,Master,7,Chennai,1
+,132856.0,Female,HR,PhD,39,Bangalore,0
+32.0,88450.0,Male,Sales,High School,11,Delhi,0
+32.0,41352.0,Female,HR,High School,26,Chennai,0
+43.0,75069.0,Male,Sales,Master,7,Mumbai,1
+59.0,131888.0,Female,Finance,High School,24,Bangalore,0
+30.0,130448.0,Female,HR,High School,3,Mumbai,0
+68.0,34397.0,Male,Sales,High School,32,Chennai,0
+49.0,,Female,Finance,Bachelor,0,Bangalore,0
+56.0,66959.0,Female,HR,PhD,18,Chennai,0
+66.0,20728.0,Male,Finance,Master,30,Mumbai,1
+69.0,,Female,Tech,Master,15,Bangalore,0
+49.0,139180.0,Male,Tech,Bachelor,13,Mumbai,0
+21.0,86234.0,Female,HR,PhD,4,Chennai,1
+47.0,59954.0,Male,Sales,Master,25,Chennai,0
+54.0,67280.0,Male,HR,High School,27,Mumbai,1
+40.0,,,Finance,Master,1,Bangalore,0
+56.0,36779.0,Female,Sales,High School,5,Mumbai,0
+,83932.0,Female,Tech,Bachelor,8,Chennai,0
+32.0,92936.0,Female,Sales,High School,32,Mumbai,1
+60.0,44466.0,Female,Tech,Master,24,Chennai,0
+46.0,56939.0,Male,Sales,Master,12,Mumbai,0
+53.0,89896.0,Female,Sales,Master,8,Bangalore,0
+30.0,55270.0,Male,Sales,Bachelor,12,Bangalore,0
+49.0,79163.0,Male,Finance,Bachelor,30,Mumbai,0
+24.0,748475.0,Female,Finance,PhD,10,Mumbai,0
+68.0,71934.0,Male,HR,Master,3,Bangalore,1
+39.0,84895.0,Male,HR,High School,33,Chennai,0
+45.0,,,Tech,Bachelor,37,Bangalore,0
+19.0,74098.0,Male,Finance,Master,3,Chennai,0
+59.0,,Female,Tech,Master,37,Mumbai,1
+62.0,25486.0,Male,HR,Bachelor,18,Mumbai,0
+23.0,28335.0,Female,Tech,PhD,5,Chennai,0
+45.0,106900.0,Female,HR,Bachelor,33,Mumbai,0
+45.0,146020.0,Male,Finance,Bachelor,17,Chennai,0
+61.0,141954.0,Female,Sales,High School,12,Delhi,0
+61.0,122795.0,Female,Finance,High School,22,Bangalore,0
+37.0,109112.0,Female,Tech,PhD,18,Delhi,0
+47.0,117203.0,Male,Tech,Master,10,Chennai,0
+28.0,31130.0,Female,Finance,Bachelor,0,Bangalore,0
+,107508.0,Female,Finance,PhD,23,Chennai,0
+42.0,125955.0,Female,HR,High School,6,Bangalore,0
+56.0,138324.0,Male,Tech,Bachelor,24,Bangalore,0
+50.0,80566.0,Female,Tech,Master,20,Bangalore,0
+18.0,86703.0,Male,Finance,High School,14,Bangalore,0
+44.0,47192.0,Male,Sales,High School,0,Chennai,0
+69.0,21062.0,Male,Tech,High School,11,Bangalore,0
+,104076.0,Male,Sales,PhD,6,Bangalore,0
+58.0,748475.0,,Finance,Master,14,Delhi,0
+20.0,41545.0,Male,Finance,Bachelor,20,Mumbai,0
+56.0,41689.0,,HR,PhD,18,Mumbai,0
+23.0,,Male,Tech,PhD,28,Delhi,0
+25.0,108461.0,Female,Sales,PhD,24,Delhi,0
+44.0,146174.0,Female,HR,High School,32,Chennai,0
+26.0,123033.0,Male,Tech,Master,31,Chennai,0
+54.0,29348.0,Female,HR,PhD,34,Chennai,0
+50.0,43714.0,Female,Finance,Bachelor,37,Delhi,1
+68.0,58102.0,Female,Tech,Master,25,Delhi,0
+59.0,94460.0,,HR,Bachelor,10,Bangalore,0
+61.0,122634.0,Male,HR,Master,34,Chennai,0
+41.0,,Female,Sales,Bachelor,7,Chennai,0
+32.0,26801.0,Male,HR,High School,13,Chennai,0
+49.0,123150.0,Female,Tech,PhD,9,Mumbai,0
+49.0,92267.0,Female,Tech,Bachelor,1,Bangalore,0
+41.0,68136.0,Male,Sales,Master,8,Chennai,1
+58.0,43625.0,Female,Tech,PhD,2,Chennai,0
+69.0,102873.0,,Finance,PhD,20,Chennai,0
+66.0,120843.0,Female,Tech,Master,25,Mumbai,0
+66.0,92592.0,,Tech,Bachelor,7,Mumbai,0
+69.0,97052.0,Female,HR,High School,1,Delhi,0
+,64261.0,Male,HR,High School,5,Bangalore,0
+56.0,21542.0,Female,Tech,Bachelor,27,Delhi,0
+19.0,41677.0,Male,Sales,PhD,28,Bangalore,0
+,66732.0,Male,HR,PhD,25,Mumbai,0
+,,Female,Sales,PhD,24,Chennai,0
+54.0,59081.0,Female,Tech,PhD,11,Delhi,0
+66.0,82856.0,Male,Tech,Bachelor,4,Chennai,1
+34.0,,Male,Finance,PhD,33,Delhi,1
+66.0,108858.0,Female,HR,Master,36,Mumbai,0
+19.0,39065.0,,Tech,PhD,14,Mumbai,0
+,144097.0,Female,Finance,High School,35,Mumbai,0
+45.0,103460.0,Female,HR,PhD,14,Delhi,0
+40.0,108092.0,Female,Tech,Bachelor,22,Bangalore,1
+54.0,146116.0,Female,Tech,High School,5,Delhi,0
+49.0,74693.0,Male,HR,Bachelor,20,Bangalore,0
+50.0,46962.0,Female,HR,Bachelor,22,Delhi,0
+18.0,,Male,HR,High School,15,Delhi,0
+36.0,33807.0,Female,Tech,Bachelor,14,Mumbai,0
+19.0,62348.0,Male,Tech,Bachelor,24,Chennai,1
+61.0,46432.0,Female,Finance,PhD,35,Chennai,0
+43.0,103285.0,Male,Sales,Master,10,Bangalore,0
+49.0,126995.0,Male,HR,Bachelor,14,Chennai,1
+23.0,111792.0,Female,Tech,Bachelor,3,Delhi,0
+49.0,77854.0,,Tech,Bachelor,20,Delhi,0
+21.0,60262.0,Female,HR,PhD,12,Mumbai,0
+,57080.0,Female,Sales,Master,21,Mumbai,0
+34.0,,Male,HR,High School,18,Chennai,1
+55.0,111267.0,Female,Sales,PhD,33,Bangalore,0
+41.0,144707.0,Male,Tech,PhD,13,Chennai,1
+22.0,55909.0,Male,Sales,Master,3,Chennai,0
+69.0,109339.0,Female,Finance,Master,26,Chennai,1
+51.0,39870.0,Male,Tech,PhD,28,Chennai,0
+23.0,54578.0,Male,Finance,High School,27,Delhi,0
+39.0,,Male,HR,PhD,34,Bangalore,0
+28.0,137611.0,Male,HR,Master,7,Delhi,1
+65.0,123605.0,,HR,High School,15,Bangalore,0
+33.0,46790.0,Female,Sales,Master,35,Mumbai,0
+50.0,138874.0,Female,Tech,High School,29,Chennai,0
+,45289.0,Female,HR,Bachelor,17,Delhi,0
+23.0,,Male,HR,Master,1,Bangalore,1
+33.0,113714.0,Male,Tech,Master,12,Mumbai,0
+46.0,114246.0,Female,HR,PhD,3,Mumbai,0
+20.0,35485.0,Female,Finance,Master,25,Chennai,0
+37.0,64482.0,,Tech,Master,24,Bangalore,0
+53.0,,Male,Tech,Bachelor,29,Delhi,0
+36.0,24748.0,Female,Tech,Master,10,Chennai,0
+43.0,106769.0,Female,Finance,Bachelor,6,Delhi,0
+20.0,29435.0,Female,Tech,Bachelor,30,Mumbai,0
+36.0,23709.0,,Finance,Bachelor,9,Delhi,0
+37.0,143961.0,Male,Tech,Bachelor,38,Delhi,0
+49.0,,Male,Sales,High School,12,Chennai,0
+24.0,75771.0,Male,HR,PhD,30,Delhi,0
+69.0,77799.0,,Sales,High School,6,Chennai,0
+58.0,33116.0,Male,HR,Master,35,Mumbai,1
+50.0,45470.0,Male,Finance,High School,19,Chennai,1
+57.0,,Male,Sales,High School,3,Chennai,0
+,62918.0,Female,Tech,Master,6,Bangalore,0
+35.0,72224.0,Female,HR,Master,0,Delhi,1
+57.0,59298.0,Male,HR,Master,12,Mumbai,0
+,128492.0,,Sales,High School,21,Chennai,0
+28.0,100219.0,Female,Finance,High School,20,Mumbai,0
+45.0,81629.0,Male,Sales,Master,21,Bangalore,0
+42.0,86040.0,Male,Finance,PhD,27,Delhi,0
+67.0,119518.0,Male,Finance,PhD,8,Chennai,0
+40.0,119835.0,Female,HR,Bachelor,25,Delhi,1
+48.0,48016.0,Female,Sales,Master,8,Bangalore,1
+47.0,43960.0,Female,Sales,Bachelor,14,Bangalore,0
+59.0,53591.0,Female,Finance,PhD,9,Mumbai,0
+52.0,102848.0,,Sales,Bachelor,23,Chennai,0
+24.0,,Male,Tech,Master,7,Mumbai,0
+33.0,131732.0,Female,Tech,Master,23,Bangalore,0
+43.0,134821.0,Male,Sales,Master,15,Delhi,0
+65.0,87641.0,Male,Sales,High School,25,Mumbai,1
+,56395.0,Female,Finance,Bachelor,26,Mumbai,0
+66.0,131276.0,Female,Tech,PhD,36,Delhi,0
+19.0,149695.0,Male,Tech,PhD,3,Mumbai,1
+,42700.0,Male,HR,PhD,23,Delhi,0
+65.0,748475.0,Male,Finance,High School,18,Chennai,0
+29.0,123214.0,Female,HR,High School,35,Delhi,0
+22.0,148148.0,Female,Tech,Master,38,Chennai,0
+,40559.0,Female,Finance,PhD,9,Delhi,0
+49.0,113045.0,Female,Sales,High School,24,Bangalore,0
+,113396.0,Female,Finance,Master,17,Bangalore,0
+58.0,81642.0,Male,Sales,PhD,18,Chennai,1
+52.0,96539.0,,Sales,Bachelor,35,Chennai,0
+36.0,41732.0,Male,Finance,Master,9,Bangalore,0
+65.0,148675.0,Male,Sales,High School,32,Chennai,0
+33.0,111362.0,Male,HR,High School,4,Delhi,0
+20.0,50354.0,Female,Tech,Master,34,Delhi,0
+37.0,33843.0,Female,Sales,Master,33,Bangalore,0
+41.0,130008.0,Female,HR,High School,32,Mumbai,0
+50.0,134065.0,Male,Sales,Bachelor,20,Delhi,0
+41.0,91726.0,Male,Tech,PhD,16,Chennai,0
+69.0,37640.0,Male,HR,Bachelor,21,Mumbai,0
+28.0,72528.0,Male,Tech,Master,36,Mumbai,0
+66.0,58413.0,Male,Tech,Bachelor,14,Delhi,1
+25.0,148142.0,Male,HR,High School,34,Delhi,0
+53.0,72638.0,Female,HR,Master,27,Mumbai,0
+,72736.0,Female,HR,PhD,6,Mumbai,0
+57.0,127892.0,Female,Finance,High School,31,Bangalore,0
+37.0,,Female,HR,High School,10,Chennai,0
+52.0,126357.0,Male,HR,PhD,9,Bangalore,0
+65.0,88866.0,Male,HR,PhD,8,Delhi,0
+42.0,39087.0,Female,HR,Bachelor,13,Bangalore,0
+52.0,61430.0,Male,Sales,Master,12,Bangalore,0
+42.0,44504.0,Female,Finance,PhD,24,Bangalore,0
+46.0,27114.0,Female,Tech,PhD,1,Bangalore,0
+35.0,98859.0,Female,HR,Master,34,Chennai,1
+63.0,119657.0,Male,Sales,PhD,6,Chennai,0
+35.0,30975.0,,Sales,PhD,20,Mumbai,0
+19.0,,Female,Sales,Bachelor,17,Delhi,0
+52.0,41447.0,,Tech,High School,2,Bangalore,0
+33.0,110469.0,Male,HR,High School,38,Mumbai,0
+,145899.0,Male,Finance,High School,10,Mumbai,0
+,,,Finance,High School,38,Mumbai,0
+,86203.0,Male,Sales,PhD,23,Chennai,0
+21.0,139156.0,Male,Tech,Master,18,Bangalore,0
+50.0,49703.0,,Tech,Master,3,Bangalore,0
+31.0,29337.0,Male,Tech,Bachelor,25,Delhi,0
+,66427.0,Male,Finance,Bachelor,37,Bangalore,0
+65.0,141507.0,Male,Sales,PhD,31,Bangalore,0
+37.0,81529.0,Male,HR,Master,38,Mumbai,0
+25.0,122023.0,Male,Finance,Master,35,Delhi,0
+24.0,104665.0,,Sales,High School,39,Bangalore,0
+20.0,125787.0,Male,Sales,PhD,36,Chennai,0
+34.0,51921.0,Female,HR,PhD,32,Bangalore,1
+50.0,53307.0,Female,HR,High School,35,Mumbai,0
+65.0,47355.0,Male,HR,PhD,2,Chennai,0
+29.0,,Female,Tech,PhD,8,Mumbai,0
+68.0,147016.0,Female,HR,Bachelor,7,Bangalore,0
+39.0,24835.0,Male,Sales,Master,32,Chennai,0
+39.0,40159.0,,HR,PhD,5,Delhi,0
+63.0,124346.0,Male,Sales,Bachelor,38,Delhi,1
+47.0,67605.0,Female,Finance,Master,3,Chennai,0
+55.0,141790.0,Female,Tech,High School,12,Chennai,0
+55.0,125616.0,Male,Finance,Bachelor,1,Mumbai,1
+62.0,58088.0,,Finance,Bachelor,4,Chennai,0
+,98752.0,Male,Sales,Master,26,Mumbai,0
+,75284.0,Female,Finance,High School,31,Bangalore,0
+44.0,77043.0,Female,Sales,Bachelor,20,Mumbai,0
+44.0,145388.0,,HR,PhD,7,Chennai,0
+51.0,55547.0,Female,HR,PhD,37,Chennai,1
+38.0,117007.0,Male,Sales,PhD,7,Bangalore,0
+47.0,102844.0,Male,HR,High School,2,Chennai,0
+50.0,47532.0,Male,Tech,Bachelor,2,Chennai,0
+45.0,54349.0,Male,Finance,PhD,21,Delhi,0
+64.0,142402.0,Female,Tech,High School,5,Delhi,1
+50.0,138012.0,Female,Finance,PhD,1,Bangalore,0
+22.0,65445.0,Male,HR,Master,22,Mumbai,0
+65.0,25713.0,Male,Tech,Bachelor,1,Delhi,0
+36.0,76178.0,Female,HR,Bachelor,37,Mumbai,0
+21.0,69407.0,Male,Finance,High School,16,Chennai,0
+52.0,90340.0,Female,Sales,High School,34,Delhi,0
+66.0,70990.0,Male,Sales,Bachelor,33,Bangalore,0
+34.0,95672.0,,Tech,PhD,22,Bangalore,0
+61.0,149473.0,Male,HR,PhD,29,Bangalore,0
+45.0,85545.0,Male,HR,Master,7,Delhi,0
+47.0,104791.0,Male,Tech,PhD,21,Mumbai,0
+,78141.0,Male,Sales,High School,35,Chennai,0
+63.0,43793.0,Male,Finance,High School,4,Mumbai,0
+23.0,76570.0,Female,Tech,PhD,12,Mumbai,0
+52.0,115084.0,Female,Finance,High School,28,Chennai,0
+,57892.0,Female,Sales,Bachelor,30,Chennai,0
+54.0,21015.0,Female,HR,Bachelor,15,Delhi,0
+41.0,144704.0,Female,Sales,PhD,29,Delhi,0
+46.0,81813.0,Male,Tech,Bachelor,15,Delhi,1
+66.0,47712.0,,HR,Bachelor,11,Delhi,0
+63.0,120497.0,Female,Tech,Master,16,Delhi,0
+48.0,28415.0,Male,Tech,Master,15,Chennai,0
+52.0,131854.0,Female,Sales,Bachelor,11,Mumbai,0
+50.0,132816.0,Female,Tech,PhD,7,Delhi,0
+69.0,148778.0,Male,Sales,Master,19,Delhi,0
+38.0,82292.0,Male,HR,High School,2,Mumbai,1
+49.0,43833.0,Male,Sales,High School,15,Delhi,0
+40.0,24158.0,Female,HR,High School,29,Mumbai,1
+50.0,82680.0,Male,Sales,PhD,22,Mumbai,0
+20.0,40309.0,Female,Finance,Bachelor,27,Chennai,0
+35.0,,,Finance,High School,39,Bangalore,1
+42.0,92474.0,Female,Tech,PhD,4,Chennai,0
+59.0,106704.0,Male,Sales,Master,19,Bangalore,0
+48.0,66540.0,Male,Sales,Bachelor,39,Bangalore,0
+20.0,40384.0,Female,HR,Master,0,Bangalore,0
+57.0,38017.0,Male,Tech,PhD,29,Delhi,0
+63.0,95880.0,Male,Sales,High School,20,Chennai,0
+41.0,125570.0,,Tech,High School,19,Bangalore,0
+67.0,28702.0,,Finance,PhD,5,Mumbai,0
+,20384.0,Female,Sales,High School,21,Delhi,0
+64.0,20404.0,Male,Sales,Bachelor,17,Chennai,0
+,60943.0,Female,Tech,PhD,7,Bangalore,0
+40.0,67926.0,,Sales,Master,38,Mumbai,0
+19.0,,Male,Tech,PhD,31,Chennai,0
+44.0,32763.0,Male,Sales,Bachelor,32,Chennai,0
+59.0,38384.0,Male,HR,Bachelor,15,Delhi,0
+19.0,80100.0,Female,Tech,PhD,11,Chennai,0
+43.0,118142.0,Female,Sales,PhD,37,Delhi,0
+34.0,29860.0,Female,Finance,High School,33,Bangalore,0
+57.0,124293.0,Male,Sales,Bachelor,13,Delhi,0
+50.0,100642.0,,Finance,PhD,35,Mumbai,0
+,70612.0,Male,Finance,PhD,32,Delhi,0
+60.0,43574.0,Female,HR,Bachelor,22,Mumbai,0
+65.0,43524.0,Male,Tech,PhD,1,Delhi,0
+56.0,89172.0,Female,Sales,High School,20,Chennai,0
+46.0,30916.0,Female,HR,Bachelor,1,Bangalore,1
+59.0,24809.0,,Sales,High School,26,Mumbai,1
+43.0,52201.0,,Finance,High School,8,Delhi,0
+52.0,73330.0,Female,Tech,High School,0,Delhi,0
+,33456.0,Female,Sales,High School,10,Delhi,0
+42.0,133748.0,Male,Sales,Bachelor,2,Chennai,0
+41.0,76397.0,Male,Finance,High School,22,Chennai,0
+30.0,,Female,Sales,High School,25,Mumbai,0
+24.0,58765.0,Female,Sales,PhD,3,Mumbai,0
+53.0,,,Finance,Bachelor,17,Chennai,0
+62.0,65106.0,Female,HR,Bachelor,5,Mumbai,0
+37.0,73932.0,Female,Finance,Master,34,Bangalore,0
+18.0,37100.0,Male,HR,Bachelor,21,Bangalore,0
+25.0,77091.0,Female,Tech,Bachelor,14,Chennai,1
+63.0,41949.0,Female,HR,Master,21,Mumbai,0
+33.0,90080.0,Female,HR,Bachelor,36,Delhi,0
+31.0,57744.0,Male,Tech,Bachelor,11,Bangalore,0
+29.0,65543.0,Male,HR,Bachelor,37,Chennai,0
+68.0,128319.0,Male,Finance,Bachelor,17,Mumbai,0
+40.0,112193.0,Female,HR,Master,34,Chennai,0
+,56187.0,Female,Tech,Bachelor,29,Delhi,0
+,132734.0,Male,Finance,Bachelor,23,Bangalore,0
+51.0,27239.0,Female,Tech,Master,29,Chennai,0
+19.0,144454.0,Female,Tech,PhD,13,Chennai,0
+49.0,34489.0,Female,Sales,High School,5,Chennai,0
+40.0,134937.0,,Sales,PhD,2,Delhi,0
+39.0,78017.0,,Tech,Master,15,Chennai,0
+68.0,81877.0,Male,Tech,High School,6,Delhi,1
+42.0,63125.0,Female,Tech,Master,13,Delhi,0
+39.0,69922.0,,Sales,Master,8,Delhi,0
+39.0,114074.0,Female,Sales,Bachelor,14,Bangalore,0
+66.0,,Male,HR,High School,20,Bangalore,0
+69.0,57131.0,Female,HR,Bachelor,34,Chennai,0
+59.0,,Male,Tech,High School,1,Chennai,0
+23.0,135765.0,Female,Finance,Master,26,Bangalore,1
+32.0,93963.0,Male,Finance,Master,1,Mumbai,0
+60.0,126884.0,Female,Sales,PhD,34,Bangalore,0
+54.0,145917.0,Male,Sales,High School,17,Delhi,0
+50.0,44285.0,Female,Sales,Bachelor,13,Bangalore,0
+25.0,57626.0,Male,Tech,PhD,19,Delhi,0
+61.0,,Male,Finance,PhD,17,Chennai,0
+61.0,748475.0,Female,HR,PhD,9,Mumbai,0
+22.0,73871.0,,Tech,Bachelor,24,Chennai,0
+56.0,,Male,HR,PhD,1,Delhi,0
+21.0,39758.0,Female,HR,Bachelor,24,Delhi,1
+23.0,35254.0,Male,Tech,PhD,32,Delhi,0
+62.0,64238.0,,HR,Bachelor,35,Mumbai,1
+49.0,748475.0,Male,Finance,Master,30,Bangalore,0
+69.0,59764.0,Female,HR,Master,13,Chennai,1
+47.0,97709.0,Male,Finance,Master,0,Chennai,0
+64.0,57441.0,Male,Finance,Master,15,Bangalore,0
+52.0,112234.0,Female,Finance,Master,2,Chennai,1
+57.0,73682.0,Female,Sales,PhD,34,Mumbai,0
+69.0,79494.0,Female,HR,PhD,5,Chennai,1
+33.0,,Female,Tech,PhD,24,Delhi,0
+30.0,85215.0,Male,Tech,Bachelor,12,Bangalore,0
+67.0,98587.0,Male,HR,Bachelor,33,Mumbai,0
+,125185.0,Male,Sales,Bachelor,7,Bangalore,0
+47.0,26949.0,Male,Sales,Bachelor,20,Mumbai,0
+36.0,127825.0,Female,Finance,Master,33,Delhi,0
+34.0,75393.0,Male,HR,Master,3,Bangalore,0
+36.0,93553.0,Male,HR,Master,24,Chennai,0
+45.0,26941.0,Female,Tech,High School,14,Mumbai,0
+43.0,45934.0,Male,HR,PhD,3,Bangalore,0
+54.0,,Male,Sales,Bachelor,11,Chennai,0
+43.0,145362.0,Male,HR,Bachelor,31,Bangalore,0
+,81886.0,Male,Tech,Master,31,Bangalore,0
+26.0,95745.0,Male,Finance,Bachelor,27,Bangalore,0
+29.0,103251.0,Male,Tech,Bachelor,12,Mumbai,0
+18.0,114456.0,Female,Tech,PhD,30,Chennai,0
+18.0,73413.0,Female,Finance,Master,13,Delhi,1
+64.0,,Male,Tech,PhD,19,Mumbai,0
+51.0,,Male,Tech,High School,17,Mumbai,0
+49.0,62318.0,Female,HR,High School,28,Mumbai,0
+65.0,139803.0,,HR,High School,5,Delhi,0
+42.0,90173.0,,Finance,Master,31,Chennai,0
+57.0,90390.0,Male,HR,Bachelor,28,Chennai,0
+62.0,72329.0,Female,HR,Master,1,Chennai,0
+,142418.0,Male,Tech,Master,22,Bangalore,0
